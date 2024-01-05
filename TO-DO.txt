@@ -1,0 +1,7 @@
+-   Create an interface to enable users to view the quote (all users)
+-   Enable user to create an account
+-   Enable users to set the interval between quote generation
+-   Enable user to save favourite quotes (auth users)
+-   Display user's favourite quotes in a list with author name (auth users)
+-   Enable user to remove quote from favourite list
+-   Suggest more quotes like the ones user have added in their favourite list
