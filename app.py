@@ -3,7 +3,6 @@ from RandomQuote import RandomQuote
 import requests
 import sched
 
-# TO-DO: Prevent quote from changing on refresh when time is not due
 scheduler = sched.scheduler(time.time, time.sleep)
 
 
